@@ -16,6 +16,7 @@
   &nbsp;  
   ## Usage:
   To use this applciation, after the packages are installed and the command "node index.js" is ran. The application will prompt the user with questions that will be used to generate a README file.
+  https://drive.google.com/file/d/1ZM8G_n89Kn57nkngadPxSpShepH6v8gJ/view
   &nbsp;  
   ## Contributing:
   Others can contribute to this project by requestiong for new questions, as well as suggesting ways to make the generator more applicable to other various projects that may require more information in the README file.
